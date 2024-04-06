@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Santosh Kumar 
 
-<!--
-**Santosh31012001/Santosh31012001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :book: Pursuing MCA from NIT Agartala
+- 🤔  Currently looking for Internship and Job Offer 
+- 🌱  Learning Web Development and Competitive Programming
+- 👯  looking to collaborate on Web Development Projects.
+- 😄  Pronouns: Web Developer/Softare Developer
+- ⚡  Fun fact: I am a Bug Bounty Hunter 😄
 
-Here are some ideas to get you started:
+- 📫 How to reach me: https://www.linkedin.com/in/santosh-kumar-8a62a32a0/
+- :link:leetcode:https://leetcode.com/Santosh31012001/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Live Projects : 
+
+Portfolio website :  https://rajnishkumar13500.github.io/Portfolio/
