@@ -13,5 +13,5 @@
 
 Live Projects : 
 
-Portfolio website : 
+
 Parallax website : https://santosh31012001.github.io/Parallax_Website/
