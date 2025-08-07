@@ -51,25 +51,6 @@
 - 🚀 Deployed with Docker for streamlined workflows
 - 🔍 Improved user experience and API performance
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santosh31012001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Santosh31012001&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🐍 Contributions Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Santosh31012001/Santosh31012001/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="center">
